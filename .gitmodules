@@ -1,0 +1,24 @@
+[submodule "resources/jetlinks-community"]
+	path = resources/jetlinks-community
+	url = https://github.com/jetlinks/jetlinks-community.git
+[submodule "resources/jetlinks-ui-vue"]
+	path = resources/jetlinks-ui-vue
+	url = https://github.com/jetlinks/jetlinks-ui-vue.git
+[submodule "resources/jetlinks-supports"]
+	path = resources/jetlinks-supports
+	url = https://github.com/jetlinks/jetlinks-supports.git
+[submodule "resources/rule-engine"]
+	path = resources/rule-engine
+	url = https://github.com/jetlinks/rule-engine.git
+[submodule "resources/hsweb-framework"]
+	path = resources/hsweb-framework
+	url = https://github.com/hs-web/hsweb-framework.git
+[submodule "resources/reactor-ql"]
+	path = resources/reactor-ql
+	url = https://github.com/jetlinks/reactor-ql.git
+[submodule "resources/netdata"]
+	path = resources/netdata
+	url = https://github.com/netdata/netdata.git
+[submodule "resources/thingsboard"]
+	path = resources/thingsboard
+	url = https://github.com/thingsboard/thingsboard.git
