@@ -22,3 +22,18 @@
 [submodule "resources/thingsboard"]
 	path = resources/thingsboard
 	url = https://github.com/thingsboard/thingsboard.git
+[submodule "resources/freeopcua/freeopcua"]
+	path = resources/freeopcua/freeopcua
+	url = https://github.com/FreeOpcUa/freeopcua.git
+[submodule "resources/freeopcua/python-opcua"]
+	path = resources/freeopcua/python-opcua
+	url = https://github.com/FreeOpcUa/python-opcua.git
+[submodule "resources/freeopcua/opcua-asyncio"]
+	path = resources/freeopcua/opcua-asyncio
+	url = https://github.com/FreeOpcUa/opcua-asyncio.git
+[submodule "resources/freeopcpu/opcua-client-gui"]
+	path = resources/freeopcua/opcua-client-gui
+	url = https://github.com/FreeOpcUa/opcua-client-gui.git
+[submodule "resources/eclipse-ditto"]
+	path = resources/eclipse-ditto
+	url = https://github.com/eclipse-ditto/ditto.git
